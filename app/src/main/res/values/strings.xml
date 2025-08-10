@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">U3 App</string>
+    <string name="get_started">Get Started</string>
+    <string name="splash_image_description"><![CDATA[<string name=\"splash_image_description\">Splash screen image</string>\n]]></string>
+    <string name="search_anything">Search Anything...</string>
+    <string name="category">Category</string>
+    <string name="our_product">Our Product</string>
+    <string name="see_more">see more</string>
+    <string name="order">Order</string>
+    <string name="cart">Cart</string>
+    <string name="menu">Menu</string>
+    <string name="message">Message</string>
+    <string name="profile">Profile</string>
+    <string name="Profile">Profile</string>
+    <string name="explorer">Explorer</string>
+</resources>

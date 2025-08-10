@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "954900134934",
+    "project_id": "u3app-5768b",
+    "storage_bucket": "u3app-5768b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954900134934:android:76fd77dea5f4acf64a8937",
+        "android_client_info": {
+          "package_name": "com.devianest.u3app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa6OHA8h-vhmOSZ3aBTc8BxjlCGl81Foo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
